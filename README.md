@@ -1,1 +1,11 @@
-# Hello_world_Aristova_MK
+# Моя первая программа
+user_name = "Студент"
+*number_a = 15*
+*number_b = 7*
+
+print(f"Привет, {user_name}!")
+print(f"Сумма чисел {number_a} и {number_b} равна {number_a + number_b}")
+
+print(f"Lab_1")
+
+print(f"VS Code, Python, Git")
